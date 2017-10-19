@@ -18,6 +18,6 @@ public class TestAnimal {
 		animal1.setEdad(edad);
 
 		animal1.nace();
-		System.out.println("Me llano "+ animal1.getNombre() + " y tengo " + animal1.getEdad() + " años");
+		System.out.println("Mi nombre es "+ animal1.getNombre() + " y mi edad es " + animal1.getEdad() + " años");
 	}
 }
